@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.1",
+  "description": "Testing App",
+  "main": "index.ja",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jigneshkumar Mistry",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
